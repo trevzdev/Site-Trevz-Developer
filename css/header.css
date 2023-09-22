@@ -1,6 +1,6 @@
 header {
     width: 1024px;
-    margin: 0 auto;
+    margin: 30px auto;
 
     display: flex;
     flex-direction: row;
@@ -18,10 +18,11 @@ header nav ul{
     display: flex;
     list-style: none;
     flex-direction: row;
+    align-items: center;
 }
 
-header nav ul li{
-    padding: 0 10px;
+header nav ul li a{
     margin: 0 20px;
+    color: blueviolet;
 }
 
