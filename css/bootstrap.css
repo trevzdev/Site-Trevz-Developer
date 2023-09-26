@@ -1,0 +1,31 @@
+/* Reset CSS */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    list-style: none;
+}
+
+.container {
+    width: 1024px;
+    margin: 30px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background-color: #fff;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+}

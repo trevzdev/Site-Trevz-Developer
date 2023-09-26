@@ -4,6 +4,7 @@
 }
 
 .btn.btn-laranja{
-    background: linear-gradient(#FF8C00, #9198e5);
+    background: linear-gradient(#FF8C00, blueviolet);
     color: black;
+    font-weight: bold;
 }
