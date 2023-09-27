@@ -7,5 +7,6 @@
 @import "./main.css";
 @import "./footer.css";
 @import "./bootstrap.css";
-@import "responsiv.css";
+@import "./responsive-background.css";
+@import "./responsive-elements.css";
 

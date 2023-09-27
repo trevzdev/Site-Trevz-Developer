@@ -1,0 +1,43 @@
+@media(max-width: 1150px){
+    .container {
+        width: 950px;
+    }
+}
+
+@media(max-width: 1024px){
+    .container {
+        width: 850px;
+    }
+
+    .meu-objetivo figcaption img{
+        width: 400px;
+        margin-right: 5px;
+    }
+}
+
+@media(max-width: 915px){
+    .container {
+        width: 600px;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+
+    header nav {
+        margin: 30px 0px;
+    }
+
+    .meu-objetivo article {
+        width: 100%;
+    }
+    .meu-objetivo figcaption img{
+        width: 400px;
+        margin-right: 5px;
+    }
+
+    footer .row {
+        flex-direction: row;
+        justify-content: center;
+    }
+}
